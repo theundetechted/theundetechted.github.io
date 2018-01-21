@@ -3,7 +3,7 @@
         <title>The Undetechted</title>
         <link>http://www.theundetechted.com</link>
         <image>
-            <url>http://images.theundetechted.com/logo.png</url>
+            <url>http://www.theundetechted.com/images/logo.png</url>
             <title>The Undetechted</title>
             <link>http://www.theundetechted.com</link>
         </image>
@@ -12,7 +12,7 @@
         </description>
         <language>en-us</language>
         <copyright>AJ Kuftic copyright 2018</copyright>
-        <atom:link href="http://podcasts.theundetechted.com/podcast.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://www.theundetechted.com/podcasts/podcast.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Fri, 05 Jan 2018 17:00:00 EDT</lastBuildDate>
         <itunes:author>AJ Kuftic</itunes:author>
         <itunes:summary>
@@ -27,27 +27,27 @@
         <itunes:keywords>
             undetechted,techie,flyover
         </itunes:keywords>
-        <itunes:image href="http://images.theundetechted.com/logo.png"/>
+        <itunes:image href="http://www.theundetechted.com/images/logo.png"/>
         <itunes:category text="Technology"/>
         <pubDate>Fri, 05 Jan 2018 06:00:00 PDT</pubDate>
         <item>
             <title>Pilot</title>
             <link>
-                http://podcasts.theundetechted.com/ep1.mp4
+                http://www.theundetechted.com/podcasts/ep1.mp4
             </link>
             <pubDate>Tue, 09 Jan 2018 16:00:00 PDT</pubDate>
             <description>
                 The first episode where we had no idea what we were doing
             </description>
-            <enclosure url="http://podcasts.theundetechted.com/ep1.mp4" length="36715125" type="audio/mpeg"/>
+            <enclosure url="http://www.theundetechted.com/podcasts/ep1.mp4" length="36715125" type="audio/mpeg"/>
             <guid>
-                http://podcasts.theundetechted.com/ep1.mp4
+                http://www.theundetechted.com/podcasts/ep1.mp4
             </guid>
             <itunes:duration>19:07</itunes:duration>
             <itunes:summary>
                 The first episode where we had no idea what we were doing
             </itunes:summary>
-            <itunes:image href="http://images.theundetechted.com/logo.png"/>
+            <itunes:image href="http://www.theundetechted.com/images/logo.png"/>
             <itunes:keywords>
                 undetechted,techie,flyover
             </itunes:keywords>
